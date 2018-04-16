@@ -1,13 +1,13 @@
 [{
-  "SpeakerID": 1,
-  "Name": "Mohammed Gaber"
+  "value": "1",
+  "text": "Mohammed Gaber"
 },
 {
-  "SpeakerID": 2,
-  "Name": "Mahmoud El Masery"
+  "value": 2,
+  "text": "Mahmoud El Masery"
 },
 {
-  "SpeakerID": 3,
-  "Name": "AymanAhmed"
+  "value": 3,
+  "text": "AymanAhmed"
 }
 ]
